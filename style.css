@@ -1,0 +1,38 @@
+body {
+    color: #00A860;
+    background-color: #CCCCCC;
+    
+}
+
+img {
+    padding: 1em;
+    width: 8em;
+}
+
+h1 {
+    
+}
+
+.top-row {
+    background-color: #FFFFFF;
+}
+
+.top-text {
+    position: absolute;
+    top: 1em;
+    left: 12em;
+}
+ 
+.left-side {
+    position: absolute;
+    left: 0%;
+    width: 25%;
+    
+}
+
+.right-side {
+    position: absolute;
+    left: 30%;
+    width: 65%;
+    
+}
