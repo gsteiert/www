@@ -2,6 +2,7 @@ body {
     color: #4E4E4E;
     background-color: #FFFFFF;
     font-family: garamond, serif;
+    font-size: 14pt;
 }
 
 .img-top {
@@ -62,7 +63,7 @@ h1, h3 {
     text-decoration: none;
     color: #EEEEEE;
     font-family: geneva, sans-serif;
-    font-size: 10pt;
+    font-size: 14pt;
 }
 
 .sidelink a:visited {
